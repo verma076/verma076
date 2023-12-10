@@ -9,13 +9,15 @@
 
 - 👨‍💻 portfolio [https://verma076.github.io](https://verma076.github.io)
 
+- 📝linkedIn [https://www.linkedin.com/in/nikhil-verma-49a3a8183/](https://www.linkedin.com/in/nikhil-verma-49a3a8183/)
+
 - 📫 How to reach me **nvmasai0706@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RFbG--pq5qqbQr-VYm18U8a4z_uNctk9/view?usp=drive_link](https://drive.google.com/file/d/1RFbG--pq5qqbQr-VYm18U8a4z_uNctk9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-verma-49a3a8183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-verma-49a3a8183/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhil verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil verma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
